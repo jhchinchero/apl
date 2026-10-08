@@ -1,0 +1,312 @@
+[
+    {
+        "RESPONSABLE": 4755,
+        "ALMACEN": 1,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 525,
+        "ALMACEN": 1,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 525,
+        "ALMACEN": 2,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 525,
+        "ALMACEN": 3,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 525,
+        "ALMACEN": 4,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 1481,
+        "ALMACEN": 1,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1481,
+        "ALMACEN": 2,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1481,
+        "ALMACEN": 3,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1481,
+        "ALMACEN": 4,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1234,
+        "ALMACEN": 1,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1234,
+        "ALMACEN": 2,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1234,
+        "ALMACEN": 3,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1234,
+        "ALMACEN": 4,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 4567,
+        "ALMACEN": 1,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 4567,
+        "ALMACEN": 2,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 4567,
+        "ALMACEN": 3,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 4567,
+        "ALMACEN": 4,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 4755,
+        "ALMACEN": 2,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 4755,
+        "ALMACEN": 3,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 4755,
+        "ALMACEN": 4,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 5547,
+        "ALMACEN": 1,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 5547,
+        "ALMACEN": 2,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 5547,
+        "ALMACEN": 3,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 5547,
+        "ALMACEN": 4,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1411,
+        "ALMACEN": 1,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1411,
+        "ALMACEN": 2,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1411,
+        "ALMACEN": 3,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1411,
+        "ALMACEN": 4,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 7960,
+        "ALMACEN": 1,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 7960,
+        "ALMACEN": 2,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 7960,
+        "ALMACEN": 3,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 7960,
+        "ALMACEN": 4,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 9841,
+        "ALMACEN": 1,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 9841,
+        "ALMACEN": 2,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 9841,
+        "ALMACEN": 3,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 9841,
+        "ALMACEN": 4,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1224,
+        "ALMACEN": 1,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 1224,
+        "ALMACEN": 2,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 1224,
+        "ALMACEN": 3,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 1224,
+        "ALMACEN": 4,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1224,
+        "ALMACEN": 5,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 6985,
+        "ALMACEN": 1,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 6985,
+        "ALMACEN": 2,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 6985,
+        "ALMACEN": 3,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 6985,
+        "ALMACEN": 4,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 6985,
+        "ALMACEN": 5,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1379,
+        "ALMACEN": 1,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1379,
+        "ALMACEN": 2,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1379,
+        "ALMACEN": 3,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1379,
+        "ALMACEN": 4,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1379,
+        "ALMACEN": 5,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1011,
+        "ALMACEN": 1,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 1011,
+        "ALMACEN": 2,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1011,
+        "ALMACEN": 3,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 1011,
+        "ALMACEN": 4,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 1011,
+        "ALMACEN": 5,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 1234,
+        "ALMACEN": 5,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1012,
+        "ALMACEN": 1,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 1012,
+        "ALMACEN": 2,
+        "DESACTIVADO": false
+    },
+    {
+        "RESPONSABLE": 1012,
+        "ALMACEN": 3,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 1012,
+        "ALMACEN": 4,
+        "DESACTIVADO": true
+    },
+    {
+        "RESPONSABLE": 1012,
+        "ALMACEN": 5,
+        "DESACTIVADO": true
+    }
+]

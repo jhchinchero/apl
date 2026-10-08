@@ -1,0 +1,1 @@
+import{G as s}from"./index-rSQBkoFA.js";const o={store(e,t){return s.post(`/cash-register-sessions/${e}/movements`,t)},getPendingCollections(e={}){return s.get("/sale-payments/pending-collections",{params:e})},collect(e){return s.post("/sale-payments/collect",{payment_ids:e})}};export{o as C};

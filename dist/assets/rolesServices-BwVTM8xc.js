@@ -1,0 +1,1 @@
+import{G as s}from"./index-rSQBkoFA.js";const a={async getRoles(){return(await s.get("/roles")).data},async getRole(e){return(await s.get(`/roles/${e}`)).data},async createRole(e){return(await s.post("/roles",e)).data},async updateRole(e,t){return(await s.put(`/roles/${e}`,t)).data},async deleteRole(e){return(await s.delete(`/roles/${e}`)).data}};export{a as r};

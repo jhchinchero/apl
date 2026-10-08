@@ -1,0 +1,1 @@
+import{G as e}from"./index-rSQBkoFA.js";const s={list(t={}){return e.get("/cash-categories",{params:t})},show(t){return e.get(`/cash-categories/${t}`)},create(t){return e.post("/cash-categories",t)},update(t,r){return e.put(`/cash-categories/${t}`,r)},toggleStatus(t){return e.patch(`/cash-categories/${t}/status`)}};export{s as c};

@@ -1,0 +1,1 @@
+import{G as t}from"./index-rSQBkoFA.js";const n={async list(){return await t.get("/users")},async get(e){return(await t.get(`/users/${e}`)).data},async create(e){const s=await t.post("/users",e);return console.log("resp: ",s),s.data},async update(e,s){return(await t.put(`/users/${e}`,s)).data},async delete(e){return(await t.delete(`/users/${e}`)).data}};export{n as u};

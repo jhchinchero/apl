@@ -1,0 +1,178 @@
+[
+    {
+        "NroCodigo":100,
+        "TIPO":"VARIADORES          "
+    },
+    {
+        "NroCodigo":101,
+        "TIPO":"SENSOR              "
+    },
+    {
+        "NroCodigo":102,
+        "TIPO":"ELECTROVALVULAS     "
+    },
+    {
+        "NroCodigo":103,
+        "TIPO":"RACORDAJE           "
+    },
+    {
+        "NroCodigo":104,
+        "TIPO":"MANGUERAS           "
+    },
+    {
+        "NroCodigo":105,
+        "TIPO":"REGULADORES         "
+    },
+    {
+        "NroCodigo":106,
+        "TIPO":"PLC Y MODULOS       "
+    },
+    {
+        "NroCodigo":107,
+        "TIPO":"HMI                 "
+    },
+    {
+        "NroCodigo":108,
+        "TIPO":"VALVULAS            "
+    },
+    {
+        "NroCodigo":109,
+        "TIPO":"MANOMETROS          "
+    },
+    {
+        "NroCodigo":110,
+        "TIPO":"PULSADORES          "
+    },
+    {
+        "NroCodigo":157,
+        "TIPO":"REPUESTOS TDT       "
+    },
+    {
+        "NroCodigo":112,
+        "TIPO":"CONTROLADORES       "
+    },
+    {
+        "NroCodigo":113,
+        "TIPO":"ELECTRICOS          "
+    },
+    {
+        "NroCodigo":114,
+        "TIPO":"RELÉS               "
+    },
+    {
+        "NroCodigo":127,
+        "TIPO":"ZOCALOS             "
+    },
+    {
+        "NroCodigo":116,
+        "TIPO":"MOTORES Y SERVOMOTOR"
+    },
+    {
+        "NroCodigo":128,
+        "TIPO":"TRAMPAS DE VAPOR    "
+    },
+    {
+        "NroCodigo":158,
+        "TIPO":"REPUESTO OTRAS MAQUI"
+    },
+    {
+        "NroCodigo":130,
+        "TIPO":"CONTADOR DE LITROS  "
+    },
+    {
+        "NroCodigo":131,
+        "TIPO":"BORNERAS            "
+    },
+    {
+        "NroCodigo":121,
+        "TIPO":"FILTROS Y SEPARADOR "
+    },
+    {
+        "NroCodigo":159,
+        "TIPO":"BARBIJOS            "
+    },
+    {
+        "NroCodigo":160,
+        "TIPO":"FUMIGADORES         "
+    },
+    {
+        "NroCodigo":124,
+        "TIPO":"INDICADOR LUMINOSO  "
+    },
+    {
+        "NroCodigo":125,
+        "TIPO":"REPUESTO VALVULAS   "
+    },
+    {
+        "NroCodigo":126,
+        "TIPO":"TRATAMIENTO DE AIRE "
+    },
+    {
+        "NroCodigo":134,
+        "TIPO":"ACTUADOR NEUMATICO  "
+    },
+    {
+        "NroCodigo":135,
+        "TIPO":"ACEITE              "
+    },
+    {
+        "NroCodigo":136,
+        "TIPO":"CABLES Y BUSES      "
+    },
+    {
+        "NroCodigo":161,
+        "TIPO":"CONTADORES          "
+    },
+    {
+        "NroCodigo":162,
+        "TIPO":"GENERADOR DE VACÍO  "
+    },
+    {
+        "NroCodigo":139,
+        "TIPO":"MANIFOLD DE AIRE    "
+    },
+    {
+        "NroCodigo":140,
+        "TIPO":"REPUESTO ALBUS      "
+    },
+    {
+        "NroCodigo":163,
+        "TIPO":"ELECTROVÁLVULAS 2\/2 "
+    },
+    {
+        "NroCodigo":156,
+        "TIPO":"REPUESTOS FILTROS   "
+    },
+    {
+        "NroCodigo":164,
+        "TIPO":"LABORATORIO         "
+    },
+    {
+        "NroCodigo":144,
+        "TIPO":"COMPRESOR Y SECADOR "
+    },
+    {
+        "NroCodigo":145,
+        "TIPO":"TEMPORIZADORES      "
+    },
+    {
+        "NroCodigo":147,
+        "TIPO":"EQUIPOS LAB TEXTIL  "
+    },
+    {
+        "NroCodigo":149,
+        "TIPO":"MAQUINAS Y EQUIPOS  "
+    },
+    {
+        "NroCodigo":150,
+        "TIPO":"BALANZA             "
+    },
+    {
+        "NroCodigo":154,
+        "TIPO":"SELLOS MECANICOS    "
+    },
+    {
+        "NroCodigo":155,
+        "TIPO":"REPUESTOS ENC. CHINA"
+    }
+]

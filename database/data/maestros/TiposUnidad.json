@@ -1,0 +1,34 @@
+[
+    {
+        "NroUnidad": 100,
+        "UNIDAD": "pza "
+    },
+    {
+        "NroUnidad": 101,
+        "UNIDAD": "mts "
+    },
+    {
+        "NroUnidad": 102,
+        "UNIDAD": "lts "
+    },
+    {
+        "NroUnidad": 103,
+        "UNIDAD": "m2  "
+    },
+    {
+        "NroUnidad": 104,
+        "UNIDAD": "Kg  "
+    },
+    {
+        "NroUnidad": 105,
+        "UNIDAD": "Bloq"
+    },
+    {
+        "NroUnidad": 106,
+        "UNIDAD": "CM  "
+    },
+    {
+        "NroUnidad": 107,
+        "UNIDAD": "ml  "
+    }
+]

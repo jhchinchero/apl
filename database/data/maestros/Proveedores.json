@@ -1,0 +1,572 @@
+[
+    {
+        "CODIGO": 100,
+        "PROVEEDOR": "SHENZHEN INVT ELECTRIC CO...LTD                   ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "invt.richardfan@gmail.com     ",
+        "DIRECCION": "Shenzhen, CHINA          "
+    },
+    {
+        "CODIGO": 101,
+        "PROVEEDOR": "TEAMBO INDUSTRY LIMITED                           ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 102,
+        "PROVEEDOR": "(ELEXPERT)WENZHOU DAJAN IMP&EXP CO..LTD           ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "ELEXPERT@HOTMAIL.COM     "
+    },
+    {
+        "CODIGO": 103,
+        "PROVEEDOR": "QUINGDAO ELITE MACHINERY MANUFACTURE CO..LTD      ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 104,
+        "PROVEEDOR": "NINGBO UNITED GROUP IMPORT AND EXPORT CO..LTD     ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 105,
+        "PROVEEDOR": "MUNDO INDUSTRIAL                                  ",
+        "REFERENCIA": "Fernando de Oliveira     ",
+        "CELULAR": "          ",
+        "PAIS": "Bolivia   ",
+        "TELEFONO": "2281080        ",
+        "EMAIL": "                              ",
+        "DIRECCION": "C/ Alto de la Alianza 675"
+    },
+    {
+        "CODIGO": 106,
+        "PROVEEDOR": "Ferreteria SAAVEDRA                               ",
+        "REFERENCIA": "Adela Saavedra           ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "c/Isaac Tamayo 896       "
+    },
+    {
+        "CODIGO": 109,
+        "PROVEEDOR": "Ferreteria IDEAL                                  ",
+        "REFERENCIA": "Mario Yujra              ",
+        "CELULAR": "          ",
+        "PAIS": "Bolivia   ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "Alonzo de Mendoza 189    "
+    },
+    {
+        "CODIGO": 108,
+        "PROVEEDOR": "VELOMAN Industrial  S.R.L                         ",
+        "REFERENCIA": "Martin Mendizabal        ",
+        "CELULAR": "72001147  ",
+        "PAIS": "Bolivia   ",
+        "TELEFONO": "2463670        ",
+        "EMAIL": "veloman@entelnet.bo           ",
+        "DIRECCION": "Av.Montes 456            "
+    },
+    {
+        "CODIGO": 110,
+        "PROVEEDOR": "FERROTODO S.R.L                                   ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "Bolivia   ",
+        "TELEFONO": "2460782        ",
+        "EMAIL": "                              ",
+        "DIRECCION": "Calle Bozo 119           "
+    },
+    {
+        "CODIGO": 111,
+        "PROVEEDOR": "HONK KONG ACE PILLAR ENTERPRISE CO..,Ltda         ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "sales@acepillar.com.hk        ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 112,
+        "PROVEEDOR": "Productos Electronicos METALTEX Ltda.             ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "BRASIL    ",
+        "TELEFONO": "               ",
+        "EMAIL": "vds@metaltex.com.br           ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 113,
+        "PROVEEDOR": "FRACTIONI Ltd                                     ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 114,
+        "PROVEEDOR": "INTERTRADE                                        ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 115,
+        "PROVEEDOR": "YOUNIO WATER METER\t\t\t                             ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 116,
+        "PROVEEDOR": "NINGBO SONO MANUFACTURING CO..LTD                 ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 117,
+        "PROVEEDOR": "ELECTRORED BOLIVIA S.R.L                          ",
+        "REFERENCIA": "Richard Ivan Fores       ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "2462046        ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 118,
+        "PROVEEDOR": "XINXIANG SAYA FILTERS CO..,LTDA                   ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 119,
+        "PROVEEDOR": "SCR COMPRESSOR                                    ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 120,
+        "PROVEEDOR": "ASEA BROWN BOVERI Ltda.                           ",
+        "REFERENCIA": "CRISTIAN ORTUÑO          ",
+        "CELULAR": "          ",
+        "PAIS": "BOLIVIA   ",
+        "TELEFONO": "2788181        ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 121,
+        "PROVEEDOR": "GISMART S.R.L                                     ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "BOLIVIA   ",
+        "TELEFONO": "2312831        ",
+        "EMAIL": "info@gismart.com.bo           ",
+        "DIRECCION": "Calle Murillo N°1046     "
+    },
+    {
+        "CODIGO": 122,
+        "PROVEEDOR": "CHINA                                             ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 123,
+        "PROVEEDOR": "CHINA                                             ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 124,
+        "PROVEEDOR": "MODTRONIX                                         ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 125,
+        "PROVEEDOR": "HK Sensi Technology Co Limited                    ",
+        "REFERENCIA": "Yuming Li                ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 126,
+        "PROVEEDOR": "JILLION LOGISTICS CO LTD                          ",
+        "REFERENCIA": "YUMING LI                ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 127,
+        "PROVEEDOR": "HANGZHOU WILTOP IMPORT&EXPORT CO., LTD            ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "hoderies@126.com              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 128,
+        "PROVEEDOR": "COLOR RICH GROUP.CO.,LTD                          ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "0086-571-828674",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 129,
+        "PROVEEDOR": "DISAAT Soluciones Integrales                      ",
+        "REFERENCIA": "Ing.Fernando Espejo      ",
+        "CELULAR": "77793593  ",
+        "PAIS": "Bolivia   ",
+        "TELEFONO": "2318027        ",
+        "EMAIL": "info@disaat.net               ",
+        "DIRECCION": "c/Mexico Z/S. Pedro N°177"
+    },
+    {
+        "CODIGO": 130,
+        "PROVEEDOR": "HK SensiTechnology Co.Limited                     ",
+        "REFERENCIA": "YUMING LI                ",
+        "CELULAR": "          ",
+        "PAIS": "China     ",
+        "TELEFONO": "+86-755-8290405",
+        "EMAIL": "amanda@hksensi.cn             ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 131,
+        "PROVEEDOR": "Electronica Conde                                 ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "C/Colombia               "
+    },
+    {
+        "CODIGO": 132,
+        "PROVEEDOR": "HANGZHOU HEXUN INDUSTRY CO., LTD                  ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "+86-71-87968295",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 133,
+        "PROVEEDOR": "SELEC                                             ",
+        "REFERENCIA": "Andres Kanqui            ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "2900289        ",
+        "EMAIL": "                              ",
+        "DIRECCION": "Calle Mexico Edif:Lirios "
+    },
+    {
+        "CODIGO": 134,
+        "PROVEEDOR": "TRITEC SRL.                                       ",
+        "REFERENCIA": "Gilio Gestri             ",
+        "CELULAR": "          ",
+        "PAIS": "BOLIVIA   ",
+        "TELEFONO": "4256993        ",
+        "EMAIL": "giliogestri@tritecbolivia.com ",
+        "DIRECCION": "Av.Mariscal SC Edif.Camar"
+    },
+    {
+        "CODIGO": 135,
+        "PROVEEDOR": "INOX SUPPLY INGENIERIA                            ",
+        "REFERENCIA": "Ximena Daria Leon        ",
+        "CELULAR": "71566014  ",
+        "PAIS": "Bolivia   ",
+        "TELEFONO": "2287001        ",
+        "EMAIL": "                              ",
+        "DIRECCION": "Av.Peru N° 153 z/Challapa"
+    },
+    {
+        "CODIGO": 136,
+        "PROVEEDOR": "IDEAL SPRAYTECHNOLOGIES LIMITED                   ",
+        "REFERENCIA": "Lin Song                 ",
+        "CELULAR": "          ",
+        "PAIS": "China     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 137,
+        "PROVEEDOR": "DEZHOU GUOFENG TEXTILE CO.,LTD                    ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "0086-0534-",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 138,
+        "PROVEEDOR": "PERNO CENTRO LTDA.                                ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "77743462  ",
+        "PAIS": "Bolivia   ",
+        "TELEFONO": "8482253        ",
+        "EMAIL": "                              ",
+        "DIRECCION": "Av. Heroes del Acre N°154"
+    },
+    {
+        "CODIGO": 139,
+        "PROVEEDOR": "WANT BALANCE INSTRUMENT CO.LTD                    ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "+86-519-8840612",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 140,
+        "PROVEEDOR": "YANTAL CHEMINS INSTRUMENT CO.,LTD.                ",
+        "REFERENCIA": "Jack Gong                ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 141,
+        "PROVEEDOR": "ELECTROFRIO                                       ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "4258205        ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 142,
+        "PROVEEDOR": "FILTRATION SOLUTIONS                              ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "86-373-5461886 ",
+        "EMAIL": "slina@chinasaya.com           ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 143,
+        "PROVEEDOR": "WENZHOU GINRI POWER AUTOMATION CO., LTD.          ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "7762982268",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "8613736370524  ",
+        "EMAIL": "katie@ginri.com               ",
+        "DIRECCION": "No.337,Kaichuang Road,Bai"
+    },
+    {
+        "CODIGO": 144,
+        "PROVEEDOR": "WUXI JINCHEN INTERNATIONAL CORP                   ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "5108359803",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "51083593856    ",
+        "EMAIL": "                              ",
+        "DIRECCION": "103, JINHUI ROAD, HUISHAN"
+    },
+    {
+        "CODIGO": 145,
+        "PROVEEDOR": "SHANGHAI FEIYU PACKAGING MACHINERY CO.,LTD.       ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "8613671882",
+        "PAIS": "          ",
+        "TELEFONO": "8613671882341  ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 146,
+        "PROVEEDOR": "CHANGZHOU SUNLIGHT ELECTRICAL APPLIANCE CO., LTD  ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "8651983825998  ",
+        "EMAIL": "salesl@czsunlight.com         ",
+        "DIRECCION": "Chunqiu Road2#,HutangTow "
+    },
+    {
+        "CODIGO": 147,
+        "PROVEEDOR": "CHANGZHOUDAHUA IMP. & EXP. (GROUP) CO., LTD.      ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "8618662128",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "8651986183120  ",
+        "EMAIL": "                              ",
+        "DIRECCION": "Nº222 ZHUJIANG ROAD,YUSHA"
+    },
+    {
+        "CODIGO": 148,
+        "PROVEEDOR": "WODE INDUSTRY COMPANY LIMITED                     ",
+        "REFERENCIA": "China /Shenzhen          ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "8613713586872  ",
+        "EMAIL": "sales@wondeindustri.com       ",
+        "DIRECCION": "Room 307 3rd floor wanfeg"
+    },
+    {
+        "CODIGO": 149,
+        "PROVEEDOR": "CENTRO HIDRAULICO                                 ",
+        "REFERENCIA": "CARLOS DIEGO LOAYZA      ",
+        "CELULAR": "77287155  ",
+        "PAIS": "BOLIVIA   ",
+        "TELEFONO": "2851835        ",
+        "EMAIL": "chidraulico@pernocentro.com   ",
+        "DIRECCION": "Av. 6 de marzo Nº 90     "
+    },
+    {
+        "CODIGO": 150,
+        "PROVEEDOR": "SHANGHAI TITA MACHINERY & EQUIPMENT CO.,Ltd       ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "86-512-36851981",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 151,
+        "PROVEEDOR": "YASPRO ELECTRONICS (SHANGHAI) CO.,LTD.            ",
+        "REFERENCIA": "INILION ENERGY           ",
+        "CELULAR": "+86 176717",
+        "PAIS": "CHINA     ",
+        "TELEFONO": "86 17671715007 ",
+        "EMAIL": "sales09@yaspro.com.cn         ",
+        "DIRECCION": "SHANGHAI                 "
+    },
+    {
+        "CODIGO": 152,
+        "PROVEEDOR": "FUL-GAS                                           ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "73272636  ",
+        "PAIS": "BOLIVIA   ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 153,
+        "PROVEEDOR": "FEILONG                                           ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 154,
+        "PROVEEDOR": "ZHAOLONG                                          ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 155,
+        "PROVEEDOR": "LUBRICANTES COPACABANA IMPORTACIONES              ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "71958446  ",
+        "PAIS": "BOLIVIA   ",
+        "TELEFONO": "2825547        ",
+        "EMAIL": "pachecomayne@gmail.com        ",
+        "DIRECCION": "Av.6 de marzo Nro.222    "
+    },
+    {
+        "CODIGO": 156,
+        "PROVEEDOR": "IDST-Ideal Spray Technology                       ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    },
+    {
+        "CODIGO": 157,
+        "PROVEEDOR": "YUEQING KAMPA ELECTRIC CO., LTD                   ",
+        "REFERENCIA": "                         ",
+        "CELULAR": "          ",
+        "PAIS": "          ",
+        "TELEFONO": "               ",
+        "EMAIL": "                              ",
+        "DIRECCION": "                         "
+    }
+]

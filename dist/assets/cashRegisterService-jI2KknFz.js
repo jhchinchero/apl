@@ -1,0 +1,1 @@
+import{G as e}from"./index-rSQBkoFA.js";const a={list(){return e.get("/cash-registers")},create(t){return e.post("/cash-registers",t)},update(t,r){return e.put(`/cash-registers/${t}`,r)},toggleStatus(t){return e.patch(`/cash-registers/${t}/status`)}};export{a as c};

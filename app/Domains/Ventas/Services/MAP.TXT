@@ -1,0 +1,64 @@
+                         ┌─────────────────────┐
+                         │      Vue / Axios    │
+                         └──────────┬──────────┘
+                                    │ POST /ventas
+                                    ▼
+                         ┌─────────────────────┐
+                         │ StoreSaleRequest    │
+                         │ Validación del JSON │
+                         └──────────┬──────────┘
+                                    ▼
+                         ┌─────────────────────┐
+                         │   SaleController    │
+                         │     muy pequeño     │
+                         └──────────┬──────────┘
+                                    ▼
+                    ┌──────────────────────────────┐
+                    │         SaleService          │
+                    │       ORQUESTADOR            │
+                    └──────────────┬───────────────┘
+                                   │
+              ┌────────────────────┼─────────────────────┐
+              │                    │                     │
+              ▼                    ▼                     ▼
+     ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐
+     │ SaleValidation  │  │ SalePayment     │  │ SaleStock       │
+     │ Service         │  │ Service         │  │ Service         │
+     └────────┬────────┘  └────────┬────────┘  └────────┬────────┘
+              │                    │                     │
+              │                    │                     ├── Producto
+              │                    │                     ├── Stock
+              │                    │                     └── SaleDetail
+              │                    │
+              │                    ├── SalePayment
+              │                    └── CashMovement
+              │
+              ├── Sucursal
+              ├── Cliente
+              └── Saldo
+                                   │
+                                   ▼
+                         ┌─────────────────────┐
+                         │ SaleAccounting      │
+                         │ Service             │
+                         └──────────┬──────────┘
+                                    │
+                          ┌─────────┼─────────┐
+                          ▼         ▼         ▼
+                       Caja      Bancos      CxC
+                                    │
+                                    ▼
+                                  Ventas
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │ DB::transaction()   │
+                         │                     │
+                         │   COMMIT / ROLLBACK │
+                         └──────────┬──────────┘
+                                    ▼
+                         ┌─────────────────────┐
+                         │ SaleResponseService │
+                         └──────────┬──────────┘
+                                    ▼
+                              JSON 201

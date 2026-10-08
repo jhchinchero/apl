@@ -1,0 +1,1 @@
+import{G as t}from"./index-rSQBkoFA.js";const o={getCompanyUser(){return t.get("/companies/company-user")},getAll(){return t.get("/companies")},getById(e){return t.get(`/companies/${e}`)},store(e){return t.post("/companies",e)},update(e,r){return t.put(`/companies/${e}`,r)},delete(e){return t.delete(`/companies/${e}`)}};export{o as c};
